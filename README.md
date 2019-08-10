@@ -70,3 +70,4 @@ messages compared to `psc`
  - [Fast rebuilds](https://github.com/ethul/purescript-webpack-example/tree/fast-rebuilds)
  - [Psc package](https://github.com/ethul/purescript-webpack-example/tree/psc-package)
  - [Source maps](https://github.com/ethul/purescript-webpack-example/tree/source-maps)
+ - [Spago](https://github.com/ethul/purescript-webpack-example/tree/spago)
