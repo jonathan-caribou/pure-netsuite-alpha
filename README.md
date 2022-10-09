@@ -1,4 +1,4 @@
-# purescript-webpack-example
+# The Refi Connector application you know and <3, now safe from side-effects thanks to GPT-3 and PureScript.
 
 Example project using PureScript with webpack.
 
