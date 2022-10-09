@@ -24,6 +24,7 @@ module Environment
   , kafkaLoanEventsClientId
   , kafkaNetsuiteOutboundClientId
   , logsApiKey
+  , host
   ) where
 
 import Prelude (($), String,error)
@@ -59,6 +60,9 @@ slackChannelNetsuite = processEnvMaybe "SLACK_CHANNEL_NETSUITE"
 
 logsApiKey :: Maybe String
 logsApiKey = processEnvMaybe "LOGS_API_KEY"
+
+logsApiKey :: Maybe String
+logsApiKey = processEnvMaybe "HOST"
 
 kafkaBootstrapServer :: String
 kafkaBootstrapServer = fromMaybe "pkc-419q3.us-east4.gcp.confluent.cloud:9092" $ processEnvMaybe "KAFKA_BOOTSTRAP_SERVER"

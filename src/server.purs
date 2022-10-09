@@ -24,6 +24,7 @@ import Log (logDebug, logError, logInfo)
 import Kafka.KafkaClients.ExternalNetsuiteOutbound (externalNetsuiteOutbound)
 import Kafka.KafkaClients.LoanEvents (loanEvents)
 import LogDatabase (LogDatabase, getLogs, initDatabase)
+import Node.Process (env)
 
 main :: IO ()
 main = do
