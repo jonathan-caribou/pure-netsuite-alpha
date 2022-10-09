@@ -2,6 +2,8 @@
 
 Example project using PureScript with webpack.
 
+![Caribou Computing!](image https://ca.slack-edge.com/T3RBGCW1F-U031M1LR6CW-3ccb8971f4c4-512 "Powered By...")
+
 ## Installation
 
 ```bash
