@@ -1,6 +1,8 @@
-# purescript-webpack-example
+# The Refi Connector application you know and 😍, now safe from side-effects thanks to GPT-3 and PureScript.
 
 Example project using PureScript with webpack.
+
+![Caribou Computing!](https://ca.slack-edge.com/T3RBGCW1F-U031M1LR6CW-3ccb8971f4c4-512 "Powered By...")
 
 ## Installation
 
