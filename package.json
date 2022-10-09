@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "ethul/purescript-webpack-example",
   "author": {
-    "name": "Eric Thul",
+    "name": "Jonathan Sutton Fields",
     "email": "thul.eric@gmail.com"
   },
   "files": [],
@@ -20,14 +20,19 @@
     "start": "node bundle.js"
   },
   "dependencies": {
-    "lodash.difference": "^4.5.0",
-    "purescript": "^0.11.0",
-    "purescript-psa": "^0.5.0",
-    "purs-loader": "^3.1.1",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
-    "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.7.1",
-    "wrappy": "^1.0.2"
+    "core-js": "3.25.5",
+    "lodash.difference": "",
+    "psc-package": "^4.0.1",
+    "purescript": "",
+    "purescript-psa": "",
+    "purs-loader": "",
+    "react": "",
+    "react-dom": "",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "",
+    "wrappy": ""
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
   }
 }
